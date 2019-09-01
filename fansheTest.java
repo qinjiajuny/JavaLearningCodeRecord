@@ -38,6 +38,8 @@ public class fansheTest {
 			Class clazz3 = new Person(110,"狗娃").getClass();
 			System.out.println("clazz3:"+ clazz3);
 			System.out.println("clazz2==clazz3?"+ (clazz2==clazz3));
+			
+			
 
 	}
 
